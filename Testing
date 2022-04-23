@@ -1,4 +1,7 @@
 # Testing-git-M_R_T
+
+/* Author Meraz3045 */
+/* Basic C program for calculate the sum of two numbers */
  
 #include <stdio.h>   
 int total = 0;       
