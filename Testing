@@ -8,8 +8,8 @@
  
 #include <stdio.h>   
 int total = 0;       
-int sum (int, int);  /* Function declaration section */
-int main ()          /* Main function */
+int sum (int, int); 
+int main ()          
 {
     printf ("This is a C basic program \n");
     total = sum (1, 1);
