@@ -6,8 +6,8 @@
     Date : 01/01/2022
 */
  
-#include <stdio.h>   /* Link section */
-int total = 0;       /* Global declaration, definition section */
+#include <stdio.h>   
+int total = 0;       
 int sum (int, int);  /* Function declaration section */
 int main ()          /* Main function */
 {
