@@ -1,10 +1,5 @@
 # Testing-git-M_R_T
 /*
-    Documentation section
-    C programming basics & structure of C programs
-    Author: MirzaFresh.com
-    
-*/
  
 #include <stdio.h>   
 int total = 0;       
