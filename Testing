@@ -1,5 +1,4 @@
 # Testing-git-M_R_T
-/*
  
 #include <stdio.h>   
 int total = 0;       
@@ -12,7 +11,7 @@ int main ()
     return 0;
 }
  
-int sum (int a, int b) /* User defined function */
+int sum (int a, int b) 
 {   
-    return a + b;      /* definition section */
+    return a + b;      
 }
